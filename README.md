@@ -5,5 +5,6 @@ Markdown Syntax é uma sintaxe usada para padronizar e facilitar formatação de
 - <https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open>
 - <https://markdownlivepreview.com/>
 - <https://pandao.github.io/editor.md/en.html>
+- <https://www.markdownguide.org/basic-syntax/>
 
 
